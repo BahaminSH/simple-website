@@ -1,6 +1,8 @@
 springbootwebsite\simplewebsite\repository\JpaContentValueRepository.class
 springbootwebsite\simplewebsite\controller\InfoController.class
 springbootwebsite\simplewebsite\entity\ContentValue.class
+springbootwebsite\simplewebsite\kafka\KafkaConsumerConfig.class
+springbootwebsite\simplewebsite\kafka\KafkaProducerConfig.class
 springbootwebsite\simplewebsite\controller\PageController.class
 springbootwebsite\simplewebsite\SimpleWebsiteApplication.class
 springbootwebsite\simplewebsite\Objects\ContentRequestDTO.class

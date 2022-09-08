@@ -9,8 +9,5 @@
         <module name="simple-website" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="simple-website" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
